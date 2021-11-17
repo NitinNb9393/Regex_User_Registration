@@ -6,6 +6,6 @@ public class RegexURP {
 		UserOperator user = new UserOperator();
 		user.firstName("nitin");
 		user.lastName("Babar");
-
+		  user.emailaddress("nitinbabar9393@gmail.com");
 	}
 }
