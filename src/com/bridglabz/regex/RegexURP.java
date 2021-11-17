@@ -5,6 +5,7 @@ public class RegexURP {
 		System.out.println("Welcome to the User Registration Problem using Regex");
 		UserOperator user = new UserOperator();
 		user.firstName("nitin");
+		user.lastName("Babar");
 
 	}
 }
