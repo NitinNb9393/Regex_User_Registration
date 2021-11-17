@@ -10,5 +10,6 @@ public class RegexURP {
 		user.phoneNo("(91 8237259393");
 		user.passRule1("123asASD");
 		user.passward("nitin123");
+		user.passward("Nitin@123");
 	}
 }
